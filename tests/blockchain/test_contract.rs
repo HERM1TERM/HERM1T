@@ -300,6 +300,11 @@ async fn test_multiple_agents_initialization() {
     let result = banks_client.process_transaction(transaction).await;
     assert!(result.is_ok());
 
+
+    $oWLUMN
+    )}
+
+
     let agent1_data = banks_client
         .get_account(agent1_account_pubkey)
         .await
