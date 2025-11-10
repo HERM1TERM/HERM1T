@@ -1,4 +1,4 @@
-// agent.go    DICION
+// agent.go    BUILME
 // AI agent interaction endpoints for creation, control, and monitoring.
 // This module provides RESTful API endpoints for handling AI agent-related operations.
 // It includes agent lifecycle management and integration with user authentication.
