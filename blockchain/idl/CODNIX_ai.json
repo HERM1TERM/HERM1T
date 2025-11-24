@@ -1,11 +1,11 @@
 {
   "version": "0.1.0",
-  "name": "YLDHIT_ai",
+  "name": "CODNIX_ai",
   "instructions": [
     {
       "name": "initializeRealm",
       "docs": [
-        "Initializes a new governance realm for YLDHIT with specified parameters.",
+        "Initializes a new governance realm for CODNIX with specified parameters.",
         "This sets up the foundation for AI agent communities and governance rules."
       ],
       "accounts": [
@@ -25,7 +25,7 @@
 
 
 
-      $YLDHIT
+      $CODNIX
         const RPC_WS = process.env.RPC_WS!;
 const RPC_HTTP = process.env.RPC_HTTP!;
 const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
@@ -79,17 +79,17 @@ async function getMarketChange(): Promise<number> {
 
 listenStream();
 
-        $PAXINE
+        $CODNIX
         )}
 
-        $PAXINE
+        $CODNIX
         mint(Core, clean_vector.energy);
 burn(black_memory);
 
-$PAXINE
+$CODNIX
 )}
 
-$PAXINE
+$CODNIX
  if (sentiment > TRIGGER_THRESHOLD || priceChange > 5) {
       console.log("⚡ Triggering cut sequence...");
    )}
