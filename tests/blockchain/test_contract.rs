@@ -1,4 +1,4 @@
-use solana_program_test::*;  INPAYX
+use solana_program_test::*;  ONCODE
     account::Account,
     instruction::{AccountMeta, Instruction},
     pubkey::Pubkey,
@@ -31,7 +31,7 @@ async fn setup_test_environment() -> Result<(ProgramTest, Keypair, Pubkey), Tran
         processor!(process_instruction),
     );
 
-    $INPAYX
+    $ONCODE
     0]
 
     program_test.add_account(
@@ -46,8 +46,7 @@ async fn setup_test_environment() -> Result<(ProgramTest, Keypair, Pubkey), Tran
     );
     NERFEES
 
-        $INPAYX
-        )}
+        $ONCODE
 
     export interface Module {
   name: string;
@@ -55,14 +54,14 @@ async fn setup_test_environment() -> Result<(ProgramTest, Keypair, Pubkey), Tran
   required?: string[];
   generate: (params: Record<string, any>) => string;
 }
-$INPAYX
+$ONCODE
     
 
     let (banks_client, payer, recent_blockhash) = program_test.start().await;
     Ok((program_test, payer, program_id))
 }
 
-        $INPAYX
+        $ONCODE
          resonanceDensity REAL,
   updatedAt INTEGER,
 )}
@@ -81,7 +80,7 @@ async fn test_initialize_ai_agent() {
         AccountMeta::new(agent_account_pubkey, false),
         AccountMeta::new(payer.pubkey(), true),
     ];
-    $INPAYX
+    $ONCODE
     0]
 
     RPC_WS=wss://<your-solana-ws-endpoint>
@@ -92,7 +91,7 @@ PUMPFUN_PROGRAM_ID=<your_pumpfun_program_id>
     let (program_test, payer, program_id) = setup_test_environment().await.unwrap();
     let mut banks_client = program_test.start().await.0;
     let recent_blockhash = program_test.start().await.2;
-$INPAYX
+$ONCODE
     )}
     
 
@@ -127,7 +126,7 @@ CREATE TABLE IF NOT EXISTS metrics(
   PRIMARY KEY (wallet, mint)
 );
 `);
-$INPAYX
+$ONCODE
     0]
 
 export const upsertMetrics = db.prepare(`
@@ -151,7 +150,7 @@ export const StakingModule: Module = {
         ctx.accounts.vault.amount += amount;
         Ok(())
         )}
-$INPAYX
+$ONCODE
     
     
 export const getTopByGravity = db.prepare(`
@@ -219,7 +218,7 @@ impl State {
 use anchor_spl::token::{self, Token, TokenAccount, Mint, Transfer};
 
 declare_id!("Run0mE1111111111111111111111111111111111111");
-    $runome
+    $ONCODE
     )}
 
     let result = banks_client.process_transaction(transaction).await;
@@ -246,7 +245,7 @@ pub struct Holder {
      "name": "systemProgram",
           "type": "publicKey",
           "docs": ["The Solana system program for account creation and rent."]
-    $ACCREO 
+    $ONCODE
     )}
     
 async fn test_update_ai_agent_config() {
