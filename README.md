@@ -1,100 +1,95 @@
-# Incode — Modular Development Framework for Solana
+# SPL-808 Protocol
 
-Incode is a modular, developer-first framework designed to make building on Solana faster, cleaner, and more scalable.
-
-Instead of rewriting boilerplate for every project, Incode allows builders to assemble on-chain systems through composable modules, automated scaffolding, and streamlined deployment workflows.
-
-It is not just a tool — it is a structured way to turn ideas into production-ready Solana code.
+[![Website](https://img.shields.io/badge/Website-spl808.fun-6a5cff?style=for-the-badge\&logo=internet-explorer\&logoColor=white\&labelColor=3b82f6)](https://spl808.fun/)
+[![X (Twitter)](https://img.shields.io/badge/X-@SPL808FUN-7c3aed?style=for-the-badge\&logo=x\&logoColor=white\&labelColor=2563eb)](https://x.com/SPL808FUN)
 
 ---
 
-## 🔗 Official Links
+## Overview
 
-[![Website](https://img.shields.io/badge/Website-incode.run-gold?style=for-the-badge)](https://incode.run/)  
-[![X / Twitter](https://img.shields.io/badge/X-INCODEBLOCK-gold?style=for-the-badge)](https://x.com/INCODEBLOCK)
+**SPL-808 is not another meme template. It is an enforcement layer.**
 
-### ADDY: DSfqF53MZDjZEj37H3PQZ2LqbVRxqEWzoHztFKJMpump
+SPL-808 is an on-chain execution protocol on Solana that removes human discretion from creator fees and liquidity flows. It enforces deterministic, rule-based routing directly at the protocol level, ensuring all value movement is automatic, traceable, auditable, and impossible for teams or insiders to privately capture.
 
----
-
-## ✨ Why Incode
-
-On Solana, the real bottleneck is rarely the lack of ideas.  
-It is how fast those ideas can become reusable, maintainable, and scalable code.
-
-Incode acts as an orchestration layer for development — connecting modules, best practices, automation, and deployment into one continuous workflow.
-
-If you understand the business logic, you should be able to ship on Solana.  
-If you are already a developer, your productivity should scale dramatically.
+SPL-808 does not rely on trust, promises, or reputation. It replaces them with cryptographic enforcement.
 
 ---
 
-## 🧩 Core Concepts
+## Why SPL-808 Exists
 
-Every Incode project is composed of modular building blocks, including but not limited to:
+In the current meme cycle, value rarely disappears because belief fades. It disappears because creator fees, liquidity, and incentives leak into private wallets, off-chain decisions, and opaque backend controls.
 
-- Token issuance, staking, vesting, and revenue flows  
-- Access control, multisig, and role-based permissions  
-- NFT collections and metadata systems  
-- Oracle integrations and event-based logic  
-- AMM and liquidity-related integrations  
+This is not a market problem. It is a structural one.
 
-Modules are designed to be composable, extensible, and production-oriented.
+SPL-808 was designed to eliminate this failure mode entirely by enforcing how value moves from the very first transaction.
 
 ---
 
-## 🚀 Workflow
+## Core Principle
 
-### 1. Build
+**People should not control money flows. Protocols should.**
 
-- Select the modules required for your project  
-- Generate scaffolding and core contract structure automatically  
+SPL-808 intercepts every creator fee and liquidity inflow and routes them through a predefined on-chain execution map. Once deployed, no team, multisig, or privileged wallet can alter this behavior.
 
-### 2. Ship
-
-- Run basic validation and safety checks  
-- Deploy to Devnet, Testnet, or Mainnet with a unified flow  
+Every rule is enforced at the contract level.
 
 ---
 
-## 🔓 Open Source Status
+## Workflow
 
-Incode V1 is fully open-sourced on GitHub.
+### 1. Capture
 
-The codebase has been actively developed for months, with extensive iteration and continuous improvements.  
-All core logic is transparent, auditable, and designed for long-term evolution.
+All creator fees and liquidity inflows are captured directly by the SPL-808 Router Program instead of private wallets. From the first transaction, funds are removed from human control.
 
----
+### 2. Route
 
-## 🧪 Development Status
+Captured funds are distributed automatically according to fixed on-chain rules. Buybacks, liquidity reinforcement, reserves, incentive pools, and ecosystem allocations execute transparently and without manual intervention.
 
-- Framework: Active development  
-- Stability: Early-stage, improving rapidly  
-- Contributions: Open  
+### 3. Recycle
 
-Feedback, issues, and pull requests are welcome.
+When a token loses momentum, SPL-808 redirects value back into ecosystem reserves instead of allowing it to collapse to zero. Value is preserved, reused, and compounded forward rather than disappearing.
 
 ---
 
-## ⚠️ Security Notice
+## What Makes SPL-808 Different
 
-Always verify you are interacting with the official Incode repository and website.  
-Do not interact with unofficial contracts or fake tokens.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
-You are free to use, modify, and distribute this software in accordance with the license terms.
-
-See the `LICENSE` file for more details.
+* **Enforcement over promises** — no manual switches, no backend control
+* **Fully on-chain routing** — every allocation is publicly verifiable
+* **Zero private fee capture** — creator revenue cannot be siphoned
+* **Lifecycle-aware liquidity** — value adapts to on-chain conditions
+* **Composable by design** — integrates with Solana-native tooling
 
 ---
 
-## 📌 Disclaimer
+## Use Cases
 
-Incode is provided as open-source software.  
-There is no guarantee of functionality, security, or financial outcome.  
-Use at your own risk.
+* Meme tokens that require provable fairness
+* Launches that reject private fee wallets
+* Communities demanding transparent economics
+* Experiments in protocol-enforced token design
+
+SPL-808 turns memes from disposable tickets into verifiable economic circuits.
+
+---
+
+## Status
+
+SPL-808 is experimental software under active development. Specifications, routing logic, and enforcement modules may evolve as the protocol is tested in production environments.
+
+---
+
+## Disclaimer
+
+SPL-808 does not guarantee profits or price stability. It is provided as experimental software. Users interact with the protocol at their own risk.
+
+---
+
+## License
+
+MIT License
+
+---
+
+**SPL-808**
+
+When humans step out of the money flow, the protocol takes control.
