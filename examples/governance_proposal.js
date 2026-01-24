@@ -8,7 +8,7 @@ const {
     LAMPORTS_PER_SOL, 
     PublicKey, 
     Transaction, 
-    sendAndConfirmTransaction,
+    sendAndConfirmTransaction, 
 } = require('@solana/web3.js');
 const {
     createRealm,
