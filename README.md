@@ -1,67 +1,100 @@
-![1500x500](https://github.com/user-attachments/assets/233d00e9-17da-447e-8ee4-76b3e782574b)
+# UnMolt
 
-# Pin.Fun
-
-[Official Website](https://splpin.fun/) | [Twitter](https://x.com/pindotfunx)
-
-7cavDMMaZTbAFD3uDLLErdBX44E4h9ewZSrtnPRfpump
+[![Twitter](https://img.shields.io/badge/Twitter-@UnMoltBot-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://x.com/UnMoltBot)
+[![Website](https://img.shields.io/badge/Website-unmolt.fun-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://unmolt.fun/)
 
 ---
 
-## What is Pin.Fun?
+## What is UnMolt?
 
-Pin.Fun is an on-chain narrative system built on Solana. It introduces a simple but extreme rule: at any given moment, only one narrative can exist. This unique Pin slot is globally visible, permanently recorded on-chain, and immutable, defining what collective attention acknowledges and remembers.
+**UnMolt** is an upgraded evolution of Moltbot.
 
-In a world of infinite tokens and stories, attention is scarce. Pin.Fun does not create more narratives; it constrains them through absolute scarcity. The Pin is not owned forever, but earned through ongoing contention shaped by participation, time, and consensus. Pin.Fun is not about hype, but about establishing a new on-chain primitive for deciding what deserves to be remembered.
+It is an autonomous agent designed to operate safely, transparently, and adaptively in real environments.
 
----
+Where first-generation agents focused on execution, UnMolt focuses on **consequences**.
 
-## Workflow
-
-**1️⃣ Forge Pin (PinRite)**  
-Users can inject $PIN or participate through actions to forge a Pin core.  
-- Each forging modifies the Pin’s attributes: scarcity, duration, influence  
-- No asset burning is required; cost is expressed as time, attention, and participation  
-
-**2️⃣ Stake Enhancement (PinStake)**  
-Users can stake $PIN to strengthen the forged Pin, increasing its weight and duration.  
-- Longer staking → rarer and stronger Pin attributes  
-- Staking is reversible; the protocol handles long-term supply adjustments  
-
-**3️⃣ AI Empowerment (spl.PIN)**  
-AI automatically generates each Pin’s unique narrative and on-chain attributes, creating a native spl.PIN asset  
-- Each Pin is unique and can be traded or collected on-chain  
-- Records origin, influence, duration, and historical context  
-- Not an NFT image, but a native on-chain narrative entity  
-
-**4️⃣ Contention & Upgrade (Pin Slot)**  
-There is only one Pin slot globally  
-- To acquire the Pin → requires forging + staking + strategic actions  
-- Pin holders → can upgrade, extend duration, and influence the narrative  
-- New narratives can challenge at any time; AI and on-chain rules determine replacements  
-
-**One-line summary of the workflow:**  
-Forge → Stake → AI Empowerment → Pin Slot Contention → Upgrade/Extension → On-chain History
+UnMolt doesn’t just act — it observes, evaluates, and adjusts.
 
 ---
 
-## Key Features
+## Why UnMolt Exists
 
-- **Extreme Scarcity:** Only one narrative can occupy the Pin slot at any given time  
-- **On-Chain Visibility:** All actions are recorded transparently on Solana  
-- **AI-Powered Narrative:** Each Pin is enriched by AI to define its historical context and impact  
-- **Community Driven:** Participation, attention, and consensus determine who controls the Pin  
-- **Native Asset:** spl.PIN is a unique on-chain entity, not a traditional NFT  
+The rise of always-on autonomous agents revealed a fundamental problem:
+
+Power scaled faster than structure.
+
+Agents with broad permissions, opaque decision paths, and no feedback loop between action and outcome may function in demos, but become fragile over time.
+
+UnMolt was started to address this gap.
+
+Not by adding more prompts.
+Not by upgrading models.
+
+But by redesigning how autonomy itself works.
+
+---
+
+## Core Principles
+
+### Permission-First
+
+UnMolt operates with explicit, layered permissions. No blind access. No silent escalation.
+
+### Observable Actions
+
+Every action has a traceable reason. Decisions are visible, inspectable, and auditable.
+
+### Outcome-Aware Learning
+
+Actions are evaluated by results. Success and failure directly influence future behavior.
+
+### Adaptive Autonomy
+
+UnMolt evolves through behavior, not version upgrades.
+
+---
+
+## How UnMolt Is Different
+
+Moltbot executes tasks.
+
+UnMolt understands consequences.
+
+Instead of optimizing for speed or volume, UnMolt optimizes for survivability, consistency, and long-term coherence.
+
+This makes UnMolt suitable for environments where mistakes matter.
+
+---
+
+## Symbolism
+
+UnMolt is represented by a squid.
+
+Unlike creatures that must shed a shell to grow, the squid survives through adaptation.
+
+No rigid form.
+No forced upgrades.
+
+Only awareness of the environment and the ability to respond.
+
+---
+
+## Status
+
+UnMolt is an active, evolving project.
+
+Expect iteration, experimentation, and visible change.
+
+Autonomy is not a feature.
+It is a responsibility.
 
 ---
 
 ## Links
 
-- Official Website: [https://splpin.fun/](https://splpin.fun/)  
-- Twitter: [https://x.com/pindotfunx](https://x.com/pindotfunx)  
+• Twitter: [https://x.com/UnMoltBot](https://x.com/UnMoltBot)
+• Website: [https://unmolt.fun/](https://unmolt.fun/)
 
 ---
 
-## Summary
-
-Pin.Fun is a new Solana primitive that allows the world to pin exactly one narrative at a time. It transforms attention, participation, and AI evaluation into a measurable, tradable, and historically recorded on-chain asset. The project is not about memes or short-term hype—it is about creating a new standard for how stories, ideas, and events are recorded and remembered on-chain.
+**UnMolt adapts.**
