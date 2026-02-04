@@ -1,5 +1,5 @@
 """ 
-tpu_training.py    
+tpu_training.py     
 A script for training deep learning models on Google TPUs for faster computation.
 This script uses TensorFlow's TPU distribution strategy to leverage the power of TPUs.
 It includes data loading, model creation, training, and evaluation on a sample dataset (MNIST).
