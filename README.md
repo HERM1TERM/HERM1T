@@ -1,5 +1,7 @@
 # LIFE.fi
 
+CA: 3DsDS4vvwcMidmk2tbJD4Xz1kocApApcMNJQRYVqpump
+
 <p align="center">
   <b>Finance for AI Life</b>
 </p>
